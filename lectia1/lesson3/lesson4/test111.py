@@ -1,1 +1,1 @@
-6+5print("Hellow world!")
+print("Hellow world!")
